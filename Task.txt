@@ -1,0 +1,11 @@
+Things to practice in Git:
+
+- git status
+- git log
+- git diff
+- git checkout
+- git restore
+- git stash
+- git tag
+
+Try making mistakes and fixing them!
